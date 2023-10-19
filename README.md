@@ -10,6 +10,10 @@ POINTERS:
 
 ➡️ Users can append the imported data to a new spreadsheet or the current spreadsheet running on the Google sheets.
 
+➡️ Sample working of Sidebar is hosted as a static website using AWS
+
+
+
 CHALLENGES:
 ➡️ To import large Csv files, so to fairly solve that the system will implement batch processing, it will process the CSV data in batches of 1000 rows at a time.
 
