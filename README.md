@@ -5,7 +5,9 @@ Picture a typical week for an analyst at an e-commerce enterprise, where they fi
 
 POINTERS:
 ➡️ Only Csv files are accepted.
+
 ➡️ Users can add various filters to the columns.
+
 ➡️ Users can append the imported data to a new spreadsheet or the current spreadsheet running on the Google sheets.
 
 CHALLENGES:
